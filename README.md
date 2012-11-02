@@ -1,4 +1,4 @@
-solid-exercises
+TheLadders' SOLID Exercises
 ===============
 
 Exercises to do after watching the Clean Coders' SOLID video series
