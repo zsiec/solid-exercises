@@ -1,3 +1,6 @@
+TheLadders' SOLID Exercises - The Open/Closed Principle
+===============
+
 Watch [the code-cast](http://www.cleancoders.com/codecast/clean-code-episode-10/show) then dig into the exercise.
 
 ---
