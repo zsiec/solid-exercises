@@ -1,4 +1,4 @@
-Watch the [The code-cast](http://www.cleancoders.com/codecast/clean-code-episode-10/show) then dig into the exercise.
+Watch [the code-cast](http://www.cleancoders.com/codecast/clean-code-episode-10/show) then dig into the exercise.
 
 ---
 
