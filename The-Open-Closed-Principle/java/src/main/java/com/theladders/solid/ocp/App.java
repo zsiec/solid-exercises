@@ -8,7 +8,7 @@ import com.theladders.solid.ocp.user.User;
 
 public class App
 {
-  public static void main( String[] args )
+  public static void main(String[] args)
   {
     JobseekerProfileManager jobseekerProfileManager = new JobseekerProfileManager();
     JobseekerConfidentialityProfileDao jobseekerConfidentialityProfileDao = new JobseekerConfidentialityProfileDao();
